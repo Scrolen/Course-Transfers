@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+     background: rgb(200, 155, 211);
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  border-bottom: 1px solid black;
+  text-align: left;
+}
+
+div {
+    float: left;
+    margin: 20px;
+}
+h4 {
+    display: inline-block;
+    margin-left: 5px;
+    
+
+}
+
+.other {
+    margin-top: 75px;
+}
+
+.home {
+   margin-left: 15px;
+}
